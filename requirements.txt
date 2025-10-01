@@ -1,0 +1,10 @@
+flask==3.0.3
+opencv-python==4.9.0.80
+imutils==0.5.4
+scikit-image==0.22.0
+# opcional para LSD y ximgproc
+opencv-contrib-python==4.9.0.80
+# orientación por texto (OSD de Tesseract) opcional
+pytesseract==0.3.13
+numpy==1.26.4
+onnxruntime==1.18.1

@@ -1,0 +1,7 @@
+{
+	"name": "Python 3",
+	"dockerFile": "Dockerfile",
+	"mounts": [
+		"source=/home/mauricio/projects/LAB/RECIBOS_APP/uploads,target=/workspaces/document-processor/uploads,type=bind"
+	]
+}
