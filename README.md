@@ -67,7 +67,13 @@ Download and install Tesseract from: https://github.com/UB-Mannheim/tesseract/wi
 
 ### 3. Configure Environment
 
-Create a `.env` file or set environment variables:
+Copy the example environment file and configure it:
+
+```bash
+cp .env.example .env
+```
+
+Edit `.env` with your configuration:
 
 ```env
 # Server
